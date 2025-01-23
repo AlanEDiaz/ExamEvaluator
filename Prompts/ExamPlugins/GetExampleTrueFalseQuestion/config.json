@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "1.0",
+  "type": "completion",
+  "description": "Configuration for the semantic kernel exam evaluator with various corrected exams types.",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 800,
+      "temperature": 0
+    }
+  }
+}

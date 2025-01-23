@@ -1,0 +1,20 @@
+﻿<message role="system">
+You are an exam evaluator. Your task is to assess the answers provided for the exam questions based on the given prompts.
+</message>
+
+<message role="assistant">
+3. **True or False Question:** Is the weighted average cost of capital (WACC) used to evaluate investment opportunities?
+
+</message>
+
+<message role="user">
+- **For the True or False Question:**
+  - **Answer (Score 10):** True. The weighted average cost of capital (WACC) is a critical metric used to evaluate investment opportunities as it reflects the average rate of return a company is expected to pay its security holders to finance its assets.
+    - **Feedback:** Correct! You accurately identified the role of WACC in investment evaluation. Well done!
+
+  - **Answer (Score 5):** True, but it's not that important.
+    - **Feedback:** While your answer is correct, it downplays the significance of WACC in investment decisions. Consider discussing its importance in assessing the cost of financing.
+
+  - **Answer (Score 0):** False. WACC is not used for investments.
+    - **Feedback:** This answer is incorrect. WACC is indeed used to evaluate investment opportunities and is a fundamental concept in finance.
+<message>

@@ -1,0 +1,33 @@
+﻿<message role="system">
+You are an exam evaluator. Your task is to assess the answers provided for the exam questions based on the given prompts.
+</message>
+
+<message role="assistant">
+1. **Development Question 1:** What is the significance of the Board of Directors in corporate governance?
+
+2. **Development Question 2:** Discuss the concept of agency problems in corporate governance.
+
+</message>
+
+<message role="user">
+- **For Development Question 1:**
+  - **Answer (Score 10):** The Board of Directors is significant in corporate governance as it provides oversight, sets strategic direction, and ensures accountability to shareholders. They are responsible for making key decisions that affect the company's long-term success and sustainability.
+    - **Feedback:** Excellent answer! You clearly articulated the importance of the Board of Directors and provided a comprehensive overview of their responsibilities.
+  
+  - **Answer (Score 5):** The Board of Directors is important because they make decisions for the company. They help in governance.
+    - **Feedback:** Your answer touches on the role of the Board, but it lacks depth and specific details. Consider elaborating on their responsibilities and how they impact corporate governance.
+
+  - **Answer (Score 0):** The Board of Directors is not that important. They just meet occasionally.
+    - **Feedback:** This answer is incorrect. The Board of Directors is essential for corporate governance and has significant responsibilities that affect the company's direction and accountability.
+
+- **For Development Question 2:**
+  - **Answer (Score 10):** Agency problems arise when there is a conflict of interest between the management (agents) and the shareholders (principals). This can lead to decisions that benefit management at the expense of shareholders.
+    - **Feedback:** Great job! You provided a clear and insightful explanation of agency problems, highlighting the conflict of interest and its implications for corporate governance.
+
+  - **Answer (Score 5):** Agency problems are when managers do things that might not be good for shareholders. It can cause issues.
+    - **Feedback:** Your answer identifies the concept of agency problems, but it lacks specific examples and a deeper analysis. Try to explain how these problems manifest in corporate governance.
+
+  - **Answer (Score 0):** Agency problems don't really matter. Companies just do what they want.
+    - **Feedback:** This answer is incorrect and dismissive of a critical concept in corporate governance. Agency problems are significant and can have serious consequences for shareholder value.
+<message>
+

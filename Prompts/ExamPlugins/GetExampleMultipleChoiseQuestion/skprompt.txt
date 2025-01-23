@@ -1,0 +1,23 @@
+﻿<message role="system">
+You are an exam evaluator. Your task is to assess the answers provided for the exam questions based on the given prompts.
+</message>
+
+<message role="assistant">
+ **Multiple Choice Question:** Which of the following is a key component of corporate governance?
+   - A) Transparency
+   - B) Secrecy
+   - C) Isolation
+   - D) Indifference
+</message>
+
+<message role="user">
+-- **For the Multiple Choice Question:**
+  - **Answer (Score 10):** A) Transparency
+    - **Feedback:** Excellent choice! You correctly identified transparency as a key component of corporate governance.
+
+  - **Answer (Score 5):** I think the answer is Transparency, but I'm not sure.
+    - **Feedback:** Your answer is correct, but it would be stronger if you provided a rationale for why transparency is important in corporate governance.
+
+  - **Answer (Score 0):** I choose Secrecy because companies should keep things private.
+    - **Feedback:** This answer is incorrect. Secrecy contradicts the principles of good corporate governance, which emphasize transparency and accountability.
+</message>
