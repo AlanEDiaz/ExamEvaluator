@@ -2,112 +2,139 @@
   {
     "ID": 1,
     "Text": "Explain the importance of data and technology in finance.",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
+
   },
   {
     "ID": 2,
     "Text": "Is the primary market for 'new' securities?",
-    "Type": "True/False"
+    "Type": "True/False",
+    "NeedJustification": true
   },
   {
     "ID": 3,
     "Text": "Which of the following is NOT a type of financial market?",
     "Type": "Multiple Choice",
-    "Options": [ "Primary Market", "Secondary Market", "Tertiary Market", "Money Market" ]
+    "Options": [ "Primary Market", "Secondary Market", "Tertiary Market", "Money Market" ],
+    "NeedJustification": false
+
   },
   {
     "ID": 4,
     "Text": "What are the three primary areas of finance?",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
   },
   {
     "ID": 5,
     "Text": "Is the capital structure concerned with the mix of long-term debt and equity financing?",
-    "Type": "True/False"
+    "Type": "True/False",
+    "NeedJustification": true
   },
   {
     "ID": 6,
     "Text": "Which of the following best describes the role of the Board of Directors?",
     "Type": "Multiple Choice",
-    "Options": [ "To manage daily operations", "To represent shareholders' interests", "To handle marketing strategies", "To oversee human resources" ]
+    "Options": [ "To manage daily operations", "To represent shareholders' interests", "To handle marketing strategies", "To oversee human resources" ],
+    "NeedJustification": false
+
   },
   {
     "ID": 7,
     "Text": "Discuss the concept of agency problems in corporate governance.",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
   },
   {
     "ID": 8,
     "Text": "Is the consumer price index (CPI) a measure of inflation?",
-    "Type": "True/False"
+    "Type": "True/False",
+    "NeedJustification": true
   },
   {
     "ID": 9,
     "Text": "What is the primary purpose of financial forecasting?",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
   },
   {
     "ID": 10,
     "Text": "Which of the following is a characteristic of a corporation?",
     "Type": "Multiple Choice",
-    "Options": [ "Unlimited personal liability", "Limited life", "Separate legal entity", "Single ownership" ]
+    "Options": [ "Unlimited personal liability", "Limited life", "Separate legal entity", "Single ownership" ],
+    "NeedJustification": false
+
   },
   {
     "ID": 11,
     "Text": "What is the relationship between risk and return in finance?",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
   },
   {
     "ID": 12,
     "Text": "Is the role of a financial analyst primarily focused on market research?",
-    "Type": "True/False"
+    "Type": "True/False",
+    "NeedJustification": true
   },
   {
     "ID": 13,
     "Text": "Which of the following is a common measure of inflation?",
     "Type": "Multiple Choice",
-    "Options": [ "Consumer Price Index", "Gross Domestic Product", "Unemployment Rate", "Interest Rate" ]
+    "Options": [ "Consumer Price Index", "Gross Domestic Product", "Unemployment Rate", "Interest Rate" ],
+    "NeedJustification": false
+
   },
   {
     "ID": 14,
     "Text": "Explain the concept of capital budgeting.",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
   },
   {
     "ID": 15,
     "Text": "Is the weighted average cost of capital (WACC) used to evaluate investment opportunities?",
-    "Type": "True/False"
+    "Type": "True/False",
+    "NeedJustification": true
   },
   {
     "ID": 16,
     "Text": "What is the significance of the Board of Directors in corporate governance?",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
   },
   {
     "ID": 17,
     "Text": "Which of the following is a type of financial instrument?",
     "Type": "Multiple Choice",
-    "Options": [ "Stocks", "Bonds", "Derivatives", "All of the above" ]
+    "Options": [ "Stocks", "Bonds", "Derivatives", "All of the above" ],
+    "NeedJustification": false
+
   },
   {
     "ID": 18,
     "Text": "Discuss the impact of macroeconomic variables on financial markets.",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
   },
   {
     "ID": 19,
     "Text": "Is the interest rate a measure of the cost of borrowing money?",
-    "Type": "True/False"
+    "Type": "True/False",
+    "NeedJustification": true
   },
   {
     "ID": 20,
     "Text": "What is the role of investor relations in a corporation?",
-    "Type": "Development"
+    "Type": "Development",
+    "NeedJustification": true
   },
   {
     "ID": 21,
     "Text": "Which of the following is a key component of corporate governance?",
     "Type": "Multiple Choice",
-    "Options": [ "Transparency", "Secrecy", "Isolation", "Indifference" ]
+    "Options": [ "Transparency", "Secrecy", "Isolation", "Indifference" ],
+    "NeedJustification": false
   }
 ]

@@ -34,11 +34,23 @@ namespace ExamEvaluation.Api.Controllers
         /// </summary>
         /// <returns>A response containing the evaluation results.</returns>
         [HttpPost("sendAnswers")]
-        public IActionResult SendAnswers(List<Answer>answers)
+        public async Task<IActionResult> SendAnswers(List<Answer>answers)
         {
             var evaluation = _evaluationService.EvaluateAnswersAsync(answers,CancellationToken.None);
 
             return Ok(evaluation);
         }
+        /// <summary>
+        /// send evaluation answers.
+        /// </summary>
+        /// <returns>A response containing the evaluation results.</returns>
+        [HttpPost("sendAnswersv2")]
+        public async Task<IActionResult> SendAnswersv2(List<Answer> answers)
+        {
+            var evaluation = await _evaluationService.EvaluateAnswersAsyncv2(answers, CancellationToken.None);
+
+            return Ok(evaluation);
+        }
+
     }
 }

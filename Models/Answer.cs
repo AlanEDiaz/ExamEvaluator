@@ -8,5 +8,6 @@ namespace ExamEvaluator.Models
         public int QuestionId { get; set; } 
         public string? SelectedOption { get; set; }
         public string? TextAnswer { get; set; }
+        public double? Score { get; set; }
     }
 }

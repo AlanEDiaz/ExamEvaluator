@@ -1,11 +1,12 @@
-﻿namespace ExamEvaluator.Models
+﻿using System.Collections.Generic;
+
+namespace ExamEvaluator.Models
 {
     public class Evaluation
     {
-        public string Report { get; set; }
-        public string ChatHistory { get; set; } 
+        public List<Answer> Answers { get; set; }
+        public List<Questions>  Questions { get; set; }
         public double EvaluationScore { get; set; }
         public string Feedback { get; set; } 
-        public string[] CorrectAnswers { get; set; }  
     }
 }
